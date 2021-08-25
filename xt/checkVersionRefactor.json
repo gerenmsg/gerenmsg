@@ -1,1 +1,12 @@
-{"message":" ","status":-2,"time":0.0460}
+{
+   "data" : {
+      "id" : 1,
+      "logs" : [ "BUG修复", "–  修复部分用户打开软件闪退的问题", "" ],
+      "publish_time" : 1629863545,
+      "update" : "http://xt.kbtao.com/2.3.9/stageUpdate/KBXiutu Upgrade 2.3.9s.exe",
+      "version" : "2.3.9"
+   },
+   "message" : "success",
+   "status" : 1,
+   "time" : 0.060
+}
