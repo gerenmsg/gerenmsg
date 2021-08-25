@@ -1,7 +1,0 @@
-http://xt.kbtao.com/2.3.0/hash/KBXiutuCheckFile-2.3.0.json?r=0.09776309924272808
-
-https://cdn.jsdelivr.net/gh/gerenmsg/gerenmsg/xt/KBXiutuCheckFile-2.3.0.json
-
-http://gitee.com/gerenmsg/gerenmsg/raw/master/README.md
-
-<用户名>/<仓库名>
