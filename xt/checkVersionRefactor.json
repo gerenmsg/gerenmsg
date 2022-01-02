@@ -1,6 +1,16 @@
 {
-   "data" : {},
+   "data" : {
+      "id" : 1
+      "logs" : [
+         "BUG修复",
+         "- 修复在色调中使用大图预览时，可能出现的图片横竖显示不正确的BUG；",
+         ""
+      ],
+      "publish_time" : 1632474976,
+      "update" : "http://xt.kbtao.com/2.5.0/stageUpdate/KBXiutu Upgrade 2.5.0s.exe",
+      "version" : "2.5.0"
+   },
    "message" : "success",
    "status" : 1,
-   "time" : 0.060
+   "time" : 0.0640
 }
